@@ -6,3 +6,4 @@ tags: ["curriculum", "machine learning", "artificial intelligence"]
 ---
 
 # My self made Artifical Intelligence degree
+Don't want to wait to get into University and learn AI, so I created my own.
