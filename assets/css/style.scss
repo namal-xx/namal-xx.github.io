@@ -11,7 +11,8 @@
 
 /* Optional direct override */
 h1 {
-  font-weight: 900;
+  font-weight: 900 !important;
   font-size: 3.5em !important;
   color: #ffffff !important;
+  line-height: 1.2 !important;
 }
