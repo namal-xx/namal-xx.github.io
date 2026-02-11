@@ -1,15 +1,5 @@
----
----
-
 /* ===== Custom Overrides ===== */
 
-:root {
-  --site-title-color: #ffffff;
-  --site-subtitle-color: #ffffff;
-  --bs-heading-color: #ffffff;
-}
-
-/* Optional direct override */
 h1 {
   font-weight: 900 !important;
   font-size: 3.5em !important;
