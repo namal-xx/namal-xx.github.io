@@ -5,6 +5,7 @@ categories: ["AI", "machine learning"]
 tags: ["curriculum", "machine learning", "artificial intelligence"]
 ---
 # My self made Artifical Intelligence degree
+
 I didn't want to wait for university to learn AI, so I'm creating my own AI master's degree curriculum.
 
 
