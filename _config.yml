@@ -194,7 +194,7 @@ defaults:
       permalink: /:title/
 
 sass:
-  style: compressed
+  style: assets/css/style.scss
 
 compress_html:
   clippings: all
@@ -224,6 +224,3 @@ jekyll-archives:
   permalinks:
     tag: /tags/:name/
     category: /categories/:name/
-
-head_includes:
-  - /assets/css/custom.css
