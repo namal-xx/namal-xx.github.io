@@ -1,5 +1,19 @@
-h1 {
-    font-weight: 900;
-    font-size: 2.5em; /* larger */
-    color: #ffffff;   /* optional: text color */
+---
+---
+
+/* ===== Custom Overrides ===== */
+
+:root {
+  --site-title-color: #ffffff;
+  --site-subtitle-color: #ffffff;
+  --bs-heading-color: #ffffff;
+}
+
+/* Optional direct override */
+.site-title,
+.post-title,
+.article-title {
+  font-weight: 900;
+  font-size: 2.5em;
+  color: #ffffff;
 }
