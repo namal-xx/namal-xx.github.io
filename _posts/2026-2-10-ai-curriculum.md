@@ -4,8 +4,8 @@ date: 2026-2-10
 categories: ["AI", "machine learning"]  
 tags: ["curriculum", "machine learning", "artificial intelligence"]
 ---
-<h1> My self made Artifical Intelligence degree </h1>
-<br>
+<h1 style="font-size: 300px;"> My self made Artifical Intelligence degree </h1>
+
 I didn't want to wait for university to learn AI, so I'm creating my own AI master's degree curriculum.
 
 
