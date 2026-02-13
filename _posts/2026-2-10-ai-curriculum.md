@@ -11,4 +11,6 @@ I didn't want to wait for university to learn AI, so I'm creating my own AI mast
 
 ![image](assets/learning-ai.png)
 
-## Hello
+## About me
+
+I'm namal, currently in 11th grade.
