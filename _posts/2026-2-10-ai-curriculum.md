@@ -4,7 +4,7 @@ date: 2026-2-10
 categories: ["AI", "machine learning"]  
 tags: ["curriculum", "machine learning", "artificial intelligence"]
 ---
-# My own Artifical Intelligence degree 
+# **My own Artifical Intelligence degree** 
 
 I didn't want to wait for university to learn AI, so I'm creating my own AI master's degree curriculum.
 
@@ -14,7 +14,7 @@ I didn't want to wait for university to learn AI, so I'm creating my own AI mast
 ---
 
 ## About me:
-I'm namal (17). A high school student in 11th grade. Passionate about learning and working on things I'm interested in.
+I'm namal *(17). A high school student in 11th grade.* Passionate about learning and working on things I'm interested in.
 
 I'm a total car nut! (the kind who walks around the parking lot just to admire rides). And yeah, I love "Learning" too, learning about things that are interesting and help me grow both technically and personally.
 
