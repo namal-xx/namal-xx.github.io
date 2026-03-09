@@ -4,7 +4,7 @@ date: 2026-2-10
 categories: ["AI", "machine learning"]  
 tags: ["curriculum", "machine learning", "artificial intelligence"]
 ---
-# ****My own Artifical Intelligence degree**** 
+# **My own Artifical Intelligence degree** 
 
 I didn't want to wait for university to learn AI, so I'm creating my own AI master's degree curriculum.
 
@@ -22,7 +22,7 @@ The best thing I've learned so far is that if you do what you love, you'll be mo
 
 ---
 
-## Why I'm studying Artificial Intelligence?
+## **Why I'm studying Artificial Intelligence?**
 For me, the field of AI is really exciting. Every day I get amazed by the concepts of AI. Even if someone knows nothing about tech, they've probably already come across ChatGPT and felt that "wow" moment.
 
 AI has a great impact on automotive industry as well including:
@@ -40,7 +40,7 @@ AI isn't just the future, it's happening now, and I want to be right in the midd
 
 ---
 
-## My curriculum:
+## **My curriculum:**
 My curriculum may not be very robust. I just gathered some of the resources I found over the internet that I think can help me to learn AI.
 If you have any advice for me, or any resource/course you may want to share, I'd love to hear that from you. Feel free to let me know in the comments!
 
@@ -93,7 +93,7 @@ AI is all about math(s). Fortunately, most of the math has been taken care of be
 
 ---
 
-## Extras:
+## **Extras:**
 1. [**Daniel Bourke's YouTube channel**](https://www.youtube.com/@mrdbourke)
 2. [**FreeCodeCamp**](https://www.freecodecamp.org/)
 3. [**NeuralNine YouTube channel**](https://www.youtube.com/@NeuralNine)
@@ -107,7 +107,7 @@ Other than that, creators like Daniel Bourke, Egor Howell, NeuralNine, and MIT l
 
 ---
 
-## Why create my own path?
+## **Why create my own path?**
 I personally learn best on my own, without the pressure of exams, submitting assignments, etc. Learning at my own pace and on my own schedule helps me grasp concepts more quickly. I slow down on the concepts I have trouble with and fast on everything else.
 
 In this era, learning exactly what you want to learn is possible thanks to the internet. In schools, many students (including me) tend to learn only the things that will appear on exams. We don't think about how these things will help us grow (neither are we taught to think like this). Strict due dates, one-time lectures, strict class timings, the pressure and anxiety of exams, these aren't what I actually want. Learning should be fun, not stressful.
