@@ -14,19 +14,22 @@ I didn't want to wait for university to learn AI, so I'm creating my own AI mast
 ---
 
 ## About me:
-I'm namal (17). A high school student in 11th grade. Passionate about learning and working on things I'm interested in
+I'm namal (17). A high school student in 11th grade. Passionate about learning and working on things I'm interested in.
+
 I'm a total car nut! (the kind who walks around the parking lot just to admire rides). And yeah, I love "Learning" too, learning about things that are interesting and help me grow both technically and personally.
+
 The best thing I've learned so far is that if you do what you love, you'll be more successful than people who are just forcing themselves to do work they don't even like. Because if you work on things you personally like, you won't hate Mondays, it'll be more fun to work!
 
 ---
 
 ## Why I'm studying Artificial Intelligence?
 For me, the field of AI is really exciting. Every day I get amazed by the concepts of AI. Even if someone knows nothing about tech, they've probably already come across ChatGPT and felt that "wow" moment.
+
 AI has a great impact on automotive industry as well including:
-Self driving cars, which uses AI to navigate roads, avoid obstacles and make decisions in real time using sensors and deep learning.
-ADAS features. Features like Automatic braking, Lane Keep Assist, Driver Monitoring System etc.
-Voice Activated Systems, which allows you to control functions in the car (e.g setting destinations, placing calls, and streaming music) with spoken commands, mainly using NLP techniques.
-… and many more
+1. **Self driving cars**, which uses AI to navigate roads, avoid obstacles and make decisions in real time using sensors and deep learning.
+2. **ADAS features**. Features like Automatic braking, Lane Keep Assist, Driver Monitoring System etc.
+3. **Voice Activated Systems**, which allows you to control functions in the car (e.g setting destinations, placing calls, and streaming music) with spoken commands, mainly using NLP techniques.
+4. … and many more
 
 ### That's why my big goals are :
 1. **Combine AI with my love for automobiles.** I know, I'm not an expert in any of these fields yet, but I can excel at the crossover of these two.
@@ -49,7 +52,7 @@ If you have any advice for me, or any resource/course you may want to share, I'd
 ---
 
 ### Courses:
-* ✅ [**AI & Machine learning Bootcamp: Zero to Mastery** (cost)](https://zerotomastery.io/courses/machine-learning-and-data-science-bootcamp/)
+* ✅ [**AI & Machine learning Bootcamp: Zero to Mastery**](https://zerotomastery.io/courses/machine-learning-and-data-science-bootcamp/)(cost)
 * ✅ [**TensorFlow for Deep Learning Bootcamp: Zero to Mastery** (cost)](https://zerotomastery.io/courses/learn-tensorflow/)
 * ✳️ [**CS50P** (free)](https://cs50.harvard.edu/python/)
 * [**Stanford Deep Learning for Computer Vision** (free)](https://www.youtube.com/playlist?list=PLoROMvodv4rOmsNzYBMe0gJY2XS8AQg16&si=yLwNXef-dMA4NFyM)
@@ -63,6 +66,7 @@ If you have any advice for me, or any resource/course you may want to share, I'd
 
 ### Why these courses?
 I jumped into machine learning completely clueless, I didn't know what it even meant! But Zero to Mastery's Machine Learning bootcamp helped me to build a strong foundation in Python and core ML concepts.
+
 I must say, Daniel Bourke's (instructor of Zero to Mastery ML courses) YouTube videos make this journey of learning even more fun!
 Harvard's free online courses are helping me so much in the moment. Learning from world-class instructors makes every lesson interesting and keeps me hooked, no waiting for a degree, just straight progress.
 
