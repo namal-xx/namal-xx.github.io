@@ -36,7 +36,7 @@ AI has a great impact on automotive industry as well including:
 2. **Share what I learn**, through articles, blogs, and explanations, to help others (especially students like me) to understand AI without feeling overwhelmed.
 3. **Become a true AI expert.** I'm not learning AI just for fun, I'm going all in, pushing myself every day to hit these goals and turn passion into real impact.
 
-3. AI isn't just the future, it's happening now, and I want to be right in the middle of it, especially where it meets the roaring engines!
+AI isn't just the future, it's happening now, and I want to be right in the middle of it, especially where it meets the roaring engines!
 
 ---
 
@@ -69,6 +69,7 @@ If you have any advice for me, or any resource/course you may want to share, I'd
 I jumped into machine learning completely clueless, I didn't know what it even meant! But Zero to Mastery's Machine Learning bootcamp helped me to build a strong foundation in Python and core ML concepts.
 
 I must say, Daniel Bourke's (instructor of Zero to Mastery ML courses) YouTube videos make this journey of learning even more fun!
+
 Harvard's free online courses are helping me so much in the moment. Learning from world-class instructors makes every lesson interesting and keeps me hooked, no waiting for a degree, just straight progress.
 
 ---
@@ -114,5 +115,7 @@ In this era, learning exactly what you want to learn is possible thanks to the i
 Online learning is the clear winner in terms of flexibility and providing valuable skills (of course, if you put in enough effort). You get to learn in the way that suits you best. Didn't complete the exercises on time? That's alright, it's on me, not anyone else!
 
 But online learning isn't as easy as it seems. You have to figure it all out on your own, and I think that's exactly what makes you stronger. Just like I'm creating my own path to learn AI.
-Why wait to get into university to start learning, when you can teach yourself everything and still achieve your goals?
-Note: I'll keep updating this curriculum as I complete courses and work on my projects!
+
+*Why wait to get into university to start learning, when you can teach yourself everything and still achieve your goals?*
+
+*Note: I'll keep updating this curriculum as I complete courses and work on my projects!*
