@@ -43,22 +43,23 @@ If you have any advice for me, or any resource/course you may want to share, I'd
 
 **Key:**
 ✅ = course fully completed.
+
 ✳️ = course in progress.
 
 ---
 
 ### Courses:
-* ✅ AI & Machine learning Bootcamp: Zero to Mastery (cost)
-* ✅ TensorFlow for Deep Learning Bootcamp: Zero to Mastery (cost)
-* ✳️ CS50P (free)
-* Stanford Deep Learning for Computer Vision (free)
-* Stanford Natural Language Processing with Deep Learning (free)
-* Machine Learning with Hugging Face Bootcamp: Zero to Mastery (cost)
-* Fast.ai Deep learning course (part 1) (free)
-* Fast.ai Deep learning course (part 2) (free)
-* CS50's Introduction to Artificial Intelligence (free)
-* Docker Course (free)
-* Machine Learning Engineering for Production by Andrew Ng (free)
+* ✅ [**AI & Machine learning Bootcamp: Zero to Mastery** (cost)](https://zerotomastery.io/courses/machine-learning-and-data-science-bootcamp/)
+* ✅ [**TensorFlow for Deep Learning Bootcamp: Zero to Mastery** (cost)](https://zerotomastery.io/courses/learn-tensorflow/)
+* ✳️ [**CS50P** (free)](https://cs50.harvard.edu/python/)
+* [**Stanford Deep Learning for Computer Vision** (free)](https://www.youtube.com/playlist?list=PLoROMvodv4rOmsNzYBMe0gJY2XS8AQg16&si=yLwNXef-dMA4NFyM)
+* [**Stanford Natural Language Processing with Deep Learning** (free)](https://www.youtube.com/playlist?list=PLoROMvodv4rOaMFbaqxPDoLWjDaRAdP9D&si=krYNSTKz7T275x3Y)
+* [**Machine Learning with Hugging Face Bootcamp: Zero to Mastery** (cost)](https://zerotomastery.io/courses/machine-learning-with-hugging-face/)
+* [**Fast.ai Deep learning course (part 1)** (free)](https://course.fast.ai/)
+* [**Fast.ai Deep learning course (part 2)** (free)](https://course.fast.ai/Lessons/part2.html)
+* [**CS50's Introduction to Artificial Intelligence** (free)](https://www.edx.org/learn/artificial-intelligence/harvard-university-cs50-s-introduction-to-artificial-intelligence-with-python?utm_source=lms_catalog_service_user&utm_medium=affiliate_partner)
+* [**Docker Course** (free)](https://www.youtube.com/watch?v=pg19Z8LL06w&list=PLFUfy1Hnm9fZ7acTfOLMuH-c7aeaWRjMG&index=6)
+* [**Machine Learning Engineering for Production by Andrew Ng** (free)](https://www.youtube.com/playlist?list=PLkDaE6sCZn6GMoA0wbpJLi3t34Gd8l0aK&si=lc-BsOHEyq-OQXUf)
 
 ### Why these courses?
 I jumped into machine learning completely clueless, I didn't know what it even meant! But Zero to Mastery's Machine Learning bootcamp helped me to build a strong foundation in Python and core ML concepts.
