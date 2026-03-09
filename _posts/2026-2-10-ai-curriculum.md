@@ -45,6 +45,7 @@ My curriculum may not be very robust. I just gathered some of the resources I fo
 If you have any advice for me, or any resource/course you may want to share, I'd love to hear that from you. Feel free to let me know in the comments!
 
 **Key:**
+
 ✅ = course fully completed.
 
 ✳️ = course in progress.
@@ -52,17 +53,17 @@ If you have any advice for me, or any resource/course you may want to share, I'd
 ---
 
 ### Courses:
-* ✅ [**AI & Machine learning Bootcamp: Zero to Mastery**](https://zerotomastery.io/courses/machine-learning-and-data-science-bootcamp/)(cost)
-* ✅ [**TensorFlow for Deep Learning Bootcamp: Zero to Mastery** (cost)](https://zerotomastery.io/courses/learn-tensorflow/)
+* ✅ [**AI & Machine learning Bootcamp: Zero to Mastery**](https://zerotomastery.io/courses/machine-learning-and-data-science-bootcamp/) (cost)
+* ✅ [**TensorFlow for Deep Learning Bootcamp: Zero to Mastery**](https://zerotomastery.io/courses/learn-tensorflow/) (cost)
 * ✳️ [**CS50P** (free)](https://cs50.harvard.edu/python/)
-* [**Stanford Deep Learning for Computer Vision** (free)](https://www.youtube.com/playlist?list=PLoROMvodv4rOmsNzYBMe0gJY2XS8AQg16&si=yLwNXef-dMA4NFyM)
-* [**Stanford Natural Language Processing with Deep Learning** (free)](https://www.youtube.com/playlist?list=PLoROMvodv4rOaMFbaqxPDoLWjDaRAdP9D&si=krYNSTKz7T275x3Y)
-* [**Machine Learning with Hugging Face Bootcamp: Zero to Mastery** (cost)](https://zerotomastery.io/courses/machine-learning-with-hugging-face/)
-* [**Fast.ai Deep learning course (part 1)** (free)](https://course.fast.ai/)
-* [**Fast.ai Deep learning course (part 2)** (free)](https://course.fast.ai/Lessons/part2.html)
-* [**CS50's Introduction to Artificial Intelligence** (free)](https://www.edx.org/learn/artificial-intelligence/harvard-university-cs50-s-introduction-to-artificial-intelligence-with-python?utm_source=lms_catalog_service_user&utm_medium=affiliate_partner)
-* [**Docker Course** (free)](https://www.youtube.com/watch?v=pg19Z8LL06w&list=PLFUfy1Hnm9fZ7acTfOLMuH-c7aeaWRjMG&index=6)
-* [**Machine Learning Engineering for Production by Andrew Ng** (free)](https://www.youtube.com/playlist?list=PLkDaE6sCZn6GMoA0wbpJLi3t34Gd8l0aK&si=lc-BsOHEyq-OQXUf)
+* [**Stanford Deep Learning for Computer Vision**](https://www.youtube.com/playlist?list=PLoROMvodv4rOmsNzYBMe0gJY2XS8AQg16&si=yLwNXef-dMA4NFyM) (free)
+* [**Stanford Natural Language Processing with Deep Learning**](https://www.youtube.com/playlist?list=PLoROMvodv4rOaMFbaqxPDoLWjDaRAdP9D&si=krYNSTKz7T275x3Y) (free)
+* [**Machine Learning with Hugging Face Bootcamp: Zero to Mastery**](https://zerotomastery.io/courses/machine-learning-with-hugging-face/) (cost)
+* [**Fast.ai Deep learning course (part 1)**](https://course.fast.ai/) (free)
+* [**Fast.ai Deep learning course (part 2)**](https://course.fast.ai/Lessons/part2.html) (free)
+* [**CS50's Introduction to Artificial Intelligence** ](https://www.edx.org/learn/artificial-intelligence/harvard-university-cs50-s-introduction-to-artificial-intelligence-with-python?utm_source=lms_catalog_service_user&utm_medium=affiliate_partner) (free)
+* [**Docker Course**](https://www.youtube.com/watch?v=pg19Z8LL06w&list=PLFUfy1Hnm9fZ7acTfOLMuH-c7aeaWRjMG&index=6) (free) 
+* [**Machine Learning Engineering for Production by Andrew Ng**](https://www.youtube.com/playlist?list=PLkDaE6sCZn6GMoA0wbpJLi3t34Gd8l0aK&si=lc-BsOHEyq-OQXUf) (free)
 
 ### Why these courses?
 I jumped into machine learning completely clueless, I didn't know what it even meant! But Zero to Mastery's Machine Learning bootcamp helped me to build a strong foundation in Python and core ML concepts.
@@ -73,10 +74,10 @@ Harvard's free online courses are helping me so much in the moment. Learning fro
 ---
 
 ### Math:
-Linear Algebra for Machine Learning by Jon Krohn (free)
-Stanford Introduction to Probability for Computer Scientists (free)
-Calculus for Machine Learning by Jon Krohn (free)
-3Blue1Brown YouTube courses (free)
+1. [**Linear Algebra for Machine Learning by Jon Krohn**](https://www.youtube.com/playlist?list=PLRDl2inPrWQW1QSWhBU0ki-jq_uElkh2a) (free)
+2. [**Stanford Introduction to Probability for Computer Scientists**](https://www.youtube.com/playlist?list=PLoROMvodv4rOpr_A7B9SriE_iZmkanvUg&si=ecf8SD5J9mr5LFMr) (free)
+3. [**Calculus for Machine Learning by Jon Krohn**](https://www.youtube.com/playlist?list=PLRDl2inPrWQVu2OvnTvtkRpJ-wz-URMJx&si=3wQfzWLZ_ECVjx96) (free)
+4. [**3Blue1Brown YouTube courses**](https://www.youtube.com/@3blue1brown/courses) (free)
 
 ### Why learn Math?
 AI is all about math(s). Fortunately, most of the math has been taken care of behind the scenes by libraries, which has made programming much easier. Still, having a fair amount of mathematical knowledge will help with debugging and understanding the concepts that make AI possible.
@@ -84,20 +85,20 @@ AI is all about math(s). Fortunately, most of the math has been taken care of be
 ---
 
 ### Books:
-Hands-On Machine Learning with Scikit-learn, and Tensorflow (cost)
-The Hundred-Page Machine Learning Book (cost)
-Deep Learning with Python, Third Edition (cost)
-Artificial Intelligence: A Modern Approach (cost)
+1. [**Hands-On Machine Learning with Scikit-learn, and Tensorflow**](https://www.amazon.com/gp/product/1491962291/ref=as_li_qf_asin_il_tl?ie=UTF8&tag=mrdbourke-20&creative=9325&linkCode=as2&creativeASIN=1491962291&linkId=513b2171e7770c3e0bcb4697a698ed10) (cost)
+2. [**The Hundred-Page Machine Learning Book**](https://www.amazon.com/gp/product/199957950X/ref=as_li_tl?ie=UTF8&tag=mrdbourke-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=199957950X&linkId=e8d4cd801a9e02eb0f8f8666224e52b7) (cost)
+3. [**Deep Learning with Python, Third Edition**](https://www.amazon.com/Learning-Python-Third-Francois-Chollet-dp-1633436586/dp/1633436586/ref=dp_ob_title_bk) (cost)
+4. [**Artificial Intelligence: A Modern Approach**](https://www.amazon.com/gp/product/9332543518/ref=as_li_qf_asin_il_tl?ie=UTF8&tag=mrdbourke-20&creative=9325&linkCode=as2&creativeASIN=9332543518&linkId=a690d118d5f847d4125b935b363a169f) (cost)
 
 ---
 
 ## Extras:
-Daniel Bourke's YouTube channel
-FreeCodeCamp
-NeuralNine YouTube channel
-MIT Introduction to Deep Learning Playlist
-Egor Howell's YouTube channel
-Andrej Karpathy
+1. [**Daniel Bourke's YouTube channel**](https://www.youtube.com/@mrdbourke)
+2. [**FreeCodeCamp**](https://www.freecodecamp.org/)
+3. [**NeuralNine YouTube channel**](https://www.youtube.com/@NeuralNine)
+3. [**MIT Introduction to Deep Learning Playlist**](https://www.youtube.com/playlist?list=PLtBw6njQRU-rwp5__7C0oIVt26ZgjG9NI)
+4. [**Egor Howell's YouTube channel**](https://www.youtube.com/@egorhowell)
+5. [**Andrej Karpathy's YouTube channel**](https://www.youtube.com/@AndrejKarpathy/featured)
 
 ### Why these?
 All of the channels and playlists I've listed above are helping me so much to grasp the concepts of ML/AI. Whenever I'm searching for a course, FreeCodeCamp is the first place I go. They have some of the best free courses out there, including excellent ones on AI and machine learning.
@@ -109,6 +110,7 @@ Other than that, creators like Daniel Bourke, Egor Howell, NeuralNine, and MIT l
 I personally learn best on my own, without the pressure of exams, submitting assignments, etc. Learning at my own pace and on my own schedule helps me grasp concepts more quickly. I slow down on the concepts I have trouble with and fast on everything else.
 
 In this era, learning exactly what you want to learn is possible thanks to the internet. In schools, many students (including me) tend to learn only the things that will appear on exams. We don't think about how these things will help us grow (neither are we taught to think like this). Strict due dates, one-time lectures, strict class timings, the pressure and anxiety of exams, these aren't what I actually want. Learning should be fun, not stressful.
+
 Online learning is the clear winner in terms of flexibility and providing valuable skills (of course, if you put in enough effort). You get to learn in the way that suits you best. Didn't complete the exercises on time? That's alright, it's on me, not anyone else!
 
 But online learning isn't as easy as it seems. You have to figure it all out on your own, and I think that's exactly what makes you stronger. Just like I'm creating my own path to learn AI.
