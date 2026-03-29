@@ -9,7 +9,7 @@ tags: ["curriculum", "machine learning", "artificial intelligence"]
 I didn't want to wait for university to learn AI, so I'm creating my own AI master's degree curriculum.
 
 
-![image](assets/learning-ai.png)
+![image](assets/images/learning-ai.png)
 
 ---
 
