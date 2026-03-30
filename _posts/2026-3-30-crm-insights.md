@@ -29,7 +29,7 @@ I built an AI-powered Streamlit web app that gives you a clear, structured view 
 ## **Lead Scoring:**
 
 ![lead-scoring-module](assets/images/lead-scoring-module.jpeg)
-Lead scoring moduleThis module scores your leads automatically using ML model, separating hot prospects from cold ones so your sales team knows exactly who to contact first. You'll get a CSV to download that you can upload to your CRM system and a dashboard format which will give you instant overview of your all leads.
+This module scores your leads automatically using ML model, separating hot prospects from cold ones so your sales team knows exactly who to contact first. You'll get a CSV to download that you can upload to your CRM system and a dashboard format which will give you instant overview of your all leads.
 Your CSV will look this:
 
 ![csv-image](assets/images/downloadable-csv-image.jpeg)
@@ -39,15 +39,20 @@ And this is where it gets smart, instead of a plain CSV with just probabilities 
 
 
 And now if you scroll down a little you'll have an AI-chatbot interface to know more about your leads. Because the CSV shown will not contain your whole data. I've choosen only a few columns just to make it short and simple, but if wanna know more about them, you've got your own chatbot interface.
-Get to know more about your leads by using Gemini AI
 
+[chatbot-interface](assets/images/chatbot-interface.jpeg)
 
 ---
 
-Customer Segmentation:
-Looks pretty great, doesn't it?Here as well, you'll have to upload data, map the columns, and in just few seconds you'll get this pretty dashboard that will tell you about your customer segments. You can instantly see which segment generates the most revenue, how each group behaves differently, and what the AI thinks about each segment. Instead of staring at raw numbers, you now have a visual breakdown that tells you a story about your customers.
+## **Customer Segmentation:**
+
+[customer-segmentation](assets/images/segments-dashboard.jpeg)
+Here as well, you'll have to upload data, map the columns, and in just few seconds you'll get this pretty dashboard that will tell you about your customer segments. You can instantly see which segment generates the most revenue, how each group behaves differently, and what the AI thinks about each segment. Instead of staring at raw numbers, you now have a visual breakdown that tells you a story about your customers.
+
+[clusters-resoning](assets/images/clusters-resoning.jpeg)
 Below the dashboard, you'll also get an AI-generated explanation for each segment, describing why it was named that way and what defines it.
-Note: You'll always get 3 segments because the ML model is configured to produce exactly 3 clusters.
+
+*Note: You'll always get 3 segments because the ML model is configured to produce exactly 3 clusters.*
 
 ---
 
