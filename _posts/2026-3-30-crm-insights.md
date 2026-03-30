@@ -68,9 +68,9 @@ Everything is written in **Python**, with **Pandas** and **NumPy** handling the 
 ## **Try It Yourself:**
 CRM Insights is completely open source. You can explore the full code on GitHub, watch the demo on YouTube, or try the live app directly.
 
-GitHub Repository
-YouTube Demo
-Live App
+- [**GitHub Repository**](https://github.com/namal-xx/crm_insights)
+- [**YouTube Demo**](https://www.youtube.com/watch?v=v3zBEEgcmqU)
+- [**Live App**](https://crminsights-byeryl6xnrmrnm728amppf.streamlit.app/)
 
 Note: The live app is hosted on Streamlit Community Cloud. If it appears inactive, just click "Yes, get this app back up!" and wait a few seconds for it to wake up.
 
