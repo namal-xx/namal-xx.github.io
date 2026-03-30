@@ -56,17 +56,18 @@ Below the dashboard, you'll also get an AI-generated explanation for each segmen
 
 ---
 
-Tech Stack:
-I chose Streamlit because it lets you build a fully functional web app in pure Python. I also used some custom HTML and CSS on top of it to make the interface cleaner and more polished than a standard Streamlit app.
-For the machine learning side, I used scikit-learn, it's reliable, well- documented, and has everything I needed for both Logistic Regression (for leads scoring) and KMeans clustering (for customer segmentation).
-The AI part is powered by Gemini 2.5 Flash. I chose it because it's fast, free to use, and handles both text generation and conversation really well, perfect for follow-up suggestions and the chatbot.
+## **Tech Stack:**
+- I chose **Streamlit** because it lets you build a fully functional web app in pure Python. I also used some custom HTML and CSS on top of it to make the interface cleaner and more polished than a standard Streamlit app.
+- For the **machine learning** side, I used **scikit-learn**, it's reliable, well- documented, and has everything I needed for both **Logistic Regression** (for leads scoring) and **KMeans clustering** (for customer segmentation).
+- The AI part is powered by **Gemini 2.5 Flash**. I chose it because it's fast, free to use, and handles both text generation and conversation really well, perfect for follow-up suggestions and the chatbot.
 
-Everything is written in Python, with Pandas and NumPy handling the data processing, and Plotly for the interactive charts.
+Everything is written in **Python**, with **Pandas** and **NumPy** handling the data processing, and **Plotly** for the interactive charts.
 
 ---
 
-Try It Yourself:
+## **Try It Yourself:**
 CRM Insights is completely open source. You can explore the full code on GitHub, watch the demo on YouTube, or try the live app directly.
+
 GitHub Repository
 YouTube Demo
 Live App
