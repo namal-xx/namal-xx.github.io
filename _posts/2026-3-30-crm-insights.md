@@ -72,9 +72,9 @@ CRM Insights is completely open source. You can explore the full code on GitHub,
 - [**YouTube Demo**](https://www.youtube.com/watch?v=v3zBEEgcmqU)
 - [**Live App**](https://crminsights-byeryl6xnrmrnm728amppf.streamlit.app/)
 
-Note: The live app is hosted on Streamlit Community Cloud. If it appears inactive, just click "Yes, get this app back up!" and wait a few seconds for it to wake up.
+*Note: The live app is hosted on Streamlit Community Cloud. If it appears inactive, just click "Yes, get this app back up!" and wait a few seconds for it to wake up.*
 
 ---
 
-Conclusion:
+## **Conclusion:**
 Building CRM Insights taught me that data is only useful when you can actually understand it. With the right tools, even a small business or freelancer can make decisions that were once only possible for large companies with big data teams. That's what I wanted to build, and I hope it's useful for you too.
