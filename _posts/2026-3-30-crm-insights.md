@@ -1,6 +1,6 @@
 ---
 title: CRM Insights Dashboard
-date: 2026-2-10
+date: 2026-3-30
 categories: ["AI", "machine learning", "CRM", "CRM-Dashboard"]  
 tags: ["crm", "machine learning", "artificial intelligence"]
 ---
@@ -33,10 +33,14 @@ Lead scoring moduleThis module scores your leads automatically using ML model, 
 Your CSV will look this:
 
 ![csv-image](assets/images/downloadable-csv-image.jpeg)
-Follow up recommendations:
+
+### **Follow up recommendations:**
 And this is where it gets smart, instead of a plain CSV with just probabilities and categories, it delivers AI-powered follow-up suggestions to help you convert leads into customers, so you're never left guessing what to do next
+
+
 And now if you scroll down a little you'll have an AI-chatbot interface to know more about your leads. Because the CSV shown will not contain your whole data. I've choosen only a few columns just to make it short and simple, but if wanna know more about them, you've got your own chatbot interface.
 Get to know more about your leads by using Gemini AI
+
 
 ---
 
