@@ -28,7 +28,7 @@ I built an AI-powered Streamlit web app that gives you a clear, structured view 
 
 ## **Lead Scoring:**
 
-![lead-scoring-module](assets\images\lead-scoring-module.jpeg)
+![lead-scoring-module](assets/images/lead-scoring-module.jpeg)
 Lead scoring moduleThis module scores your leads automatically using ML model, separating hot prospects from cold ones so your sales team knows exactly who to contact first. You'll get a CSV to download that you can upload to your CRM system and a dashboard format which will give you instant overview of your all leads.
 Your CSV will look this:
 
