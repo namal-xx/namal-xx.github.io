@@ -55,7 +55,8 @@ If you have any advice for me, or any resource/course you may want to share, I'd
 ### Courses:
 * ✅ [**AI & Machine learning Bootcamp: Zero to Mastery**](https://zerotomastery.io/courses/machine-learning-and-data-science-bootcamp/) (cost)
 * ✅ [**TensorFlow for Deep Learning Bootcamp: Zero to Mastery**](https://zerotomastery.io/courses/learn-tensorflow/) (cost)
-* ✳️ [**CS50P** (free)](https://cs50.harvard.edu/python/)
+* ✳️ [**CS50P**](https://cs50.harvard.edu/python/)(free)
+* [MIT's Introduction to Deep Learning](https://introtodeeplearning.com/)(free)
 * [**Stanford Deep Learning for Computer Vision**](https://www.youtube.com/playlist?list=PLoROMvodv4rOmsNzYBMe0gJY2XS8AQg16&si=yLwNXef-dMA4NFyM) (free)
 * [**Stanford Natural Language Processing with Deep Learning**](https://www.youtube.com/playlist?list=PLoROMvodv4rOaMFbaqxPDoLWjDaRAdP9D&si=krYNSTKz7T275x3Y) (free)
 * [**Machine Learning with Hugging Face Bootcamp: Zero to Mastery**](https://zerotomastery.io/courses/machine-learning-with-hugging-face/) (cost)
