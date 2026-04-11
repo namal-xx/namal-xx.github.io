@@ -19,5 +19,19 @@ There were nights when I genuinely felt so demotivated because I couldn’t unde
 
 But after months of learning, debugging, and those restlessness nights, I finally created my own AI-Driven CRM insights app. It is the very first project I’ve spent 2 months on, and there are many things I’ve learned along my journey, and I want to share it with people who’re at the same stage as I was in.
 
+---
+
+## **Actually working on a project instead of making workflows:**
+
+The very first thing I learned is that, after completing courses, many people struggle to find what to work on next. Some people just start another course without building something, some just keep searching for the perfect project idea, some just keep making workflows but never actually implement on it.
+
+But the thing is, if you want to become an expert in your field, you’d have to put in enough practice and time that you become what you want. Making countless workflows and to-do lists, watching motivational videos, won’t do anything unless you practically do something.
+
+You just need to start, if that doesn’t work, at least you’d know what works and what’s not, which is **WAY BETTER** than waiting for someone to tell you what to do.
+
+
+
+
+
 
 
