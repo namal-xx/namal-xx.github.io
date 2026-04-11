@@ -48,12 +48,20 @@ Many people out there teach coding, but no one tells, that your own real project
 So don’t be afraid of having errors in your code, instead treat them as challenge, and think of it like you’re gonna learn more about programming after solving this error.
 
 As saying goes:
+
 *Programming isn’t about what you know; it’s about what you can figure out.*
 
 ---
 
 ## **Your first project will be bad, and that’s the whole point:**
 
+The very first project you’ll create after taking any course, will not be very good. Your code will be messy, but that messy code IS the one that indicates your learning. Don’t just rush for perfection.
+
+It is better to create something even when you don’t feel ready, rather than waiting to be a perfect programmer. Because, you’ll never feel fully ready to do something. Success comes with time, and taking small steps. Perfection is not a magic that’ll come automatically, you’ll have to work for it.
+
+So feel happy and proud after finishing your first project, because that’s the actual milestone!!
+
+---
 
 
 
