@@ -65,6 +65,17 @@ So feel happy and proud after finishing your first project, because that’s the
 
 ## **Deploying something real teaches you more than 10 tutorials:**
 
+You can watch 100s of tutorials and not learn as much as you will by creating something. And this is where the concept of “Creation vs. Consumption” comes in.
+
+Most beginners fall into what’s called **“tutorial hell”**, you finish one tutorial, move to the next, and feel productive, but when you sit down to build something on your own, you’re lost. That’s because watching someone else code is not the same as coding yourself.
+
+You can’t learn something unless you do it by yourself, and that’s a very important concept everyone starting their journey needs to understand. So stop watching countless tutorials and videos and start building. Things you’ll learn while building can never be taught in courses.
+
+
+
+
+
+
 
 
 
