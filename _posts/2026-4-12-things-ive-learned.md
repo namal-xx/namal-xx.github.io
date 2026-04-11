@@ -28,6 +28,7 @@ The very first thing I learned is that, after completing courses, many people st
 But the thing is, if you want to become an expert in your field, you’d have to put in enough practice and time that you become what you want. Making countless workflows and to-do lists, watching motivational videos, won’t do anything unless you practically do something.
 
 You just need to start, if that doesn’t work, at least you’d know what works and what’s not, which is **WAY BETTER** than waiting for someone to tell you what to do.
+
 ---
 
 ## **Doubting yourself?**
