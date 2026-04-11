@@ -50,6 +50,10 @@ So don’t be afraid of having errors in your code, instead treat them as challe
 As saying goes:
 *Programming isn’t about what you know; it’s about what you can figure out.*
 
+---
+
+## **Your first project will be bad, and that’s the whole point:**
+
 
 
 
