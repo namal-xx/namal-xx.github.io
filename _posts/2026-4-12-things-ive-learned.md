@@ -71,6 +71,12 @@ Most beginners fall into what’s called **“tutorial hell”**, you finish one
 
 You can’t learn something unless you do it by yourself, and that’s a very important concept everyone starting their journey needs to understand. So stop watching countless tutorials and videos and start building. Things you’ll learn while building can never be taught in courses.
 
+I know building is uncomfortable. You’ll stare at a blank screen, not knowing where to start. But that discomfort is exactly where the learning happens. Tutorials remove that discomfort, and in doing so, they remove the learning too.
+
+So keep this in mind that, you don’t need one more tutorial. You need to open your editor, pick an idea, and start. It will be messy. It will be frustrating. But six months from now, that broken, buggy project will have taught you more than any course ever could.
+
+---
+
 
 
 
