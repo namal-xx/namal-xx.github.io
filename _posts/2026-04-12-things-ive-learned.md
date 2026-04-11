@@ -1,6 +1,6 @@
 ---
 title: Things I've learned 
-date: 2026-04-12
+date: 2026-4-12
 categories: ["AI", "machine learning", "progress"]
 tags: ["AI", "learning"]
 ---
