@@ -89,6 +89,10 @@ Because for me, I can’t work on something I don’t find interesting. Working 
 
 Don’t just listen to other people, and do what you feel is right.
 
+---
+
+## **Conclusion:**
+
 
 
 
