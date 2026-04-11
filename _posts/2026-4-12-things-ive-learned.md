@@ -77,7 +77,18 @@ So keep this in mind that, you don’t need one more tutorial. You need to open 
 
 ---
 
-# **Working on projects that excites you personally:**
+## **Working on projects that excites you personally:**
+
+This is another one of the most important things that you need to understand. Don’t just blindly follow people and work on things you don’t find interesting. I know, this happens most of the time, when you don’t know what to work on. You end up working on a project you don’t find interesting and you can’t even bring yourself to complete it because it’s boring. So before working on any personal project, ask yourself these questions:
+
+1. Does this project align with my interests?
+2. Is this project fun to work on?
+3. Do I really want to work on this kind of project?
+
+Because for me, I can’t work on something I don’t find interesting. Working on something according to your interests IS REALLY FUN. You’d spend as much time as you have, and would want it to look amazing and pretty, because you are working on something that excites you!
+
+Don’t just listen to other people, and do what you feel is right.
+
 
 
 
