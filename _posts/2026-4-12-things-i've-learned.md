@@ -9,8 +9,7 @@ tags: ["AI", "learning"]
 
 No bootcamp, no degree, just projects, bugs, and lessons learned the hard way.
 
----
-
+...
 
 I had zero programming experience when I started learning ML. It was difficult, I didn’t know what’s happening, what I’m supposed to do. Everything was so confusing. No one around me could help me. I was completely lost.
 
