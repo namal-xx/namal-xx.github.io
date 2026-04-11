@@ -93,6 +93,10 @@ Don’t just listen to other people, and do what you feel is right.
 
 ## **Conclusion:**
 
+The one thing I’d want you to take from this article is that, don’t wait for someone to tell you how to do something, because no one will. You’d have to figure it out on your own. And don’t wait to feel ready, because you’ll never feel ready for something you haven’t done before. **Start anyway**. Real success comes from failing, not from always winning, and that same thing applies in coding. So don’t overthink it, just **START**, and you’ll figure it out along the way.
+
+
+
 
 
 
