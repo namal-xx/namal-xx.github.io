@@ -43,6 +43,15 @@ People you see online, making videos, solving coding problems without any errors
 
 ## **Debugging is 80% of work, and nobody prepares you for that:**
 
+Many people out there teach coding, but no one tells, that your own real project will have thousands of errors, and those bugs don’t mean you’re a bad programmer or that you are dumb. Those errors will actually teach you more programming than any course can teach. You’ll face errors, search about them, learn about that code, and after hours of searching and trying, that thing will finally click, just like a light bulb going off above your head, and trust me, the satisfaction you’ll get after solving that error is priceless.
+
+So don’t be afraid of having errors in your code, instead treat them as challenge, and think of it like you’re gonna learn more about programming after solving this error.
+
+As saying goes:
+*Programming isn’t about what you know; it’s about what you can figure out.*
+
+
+
 
 
 
