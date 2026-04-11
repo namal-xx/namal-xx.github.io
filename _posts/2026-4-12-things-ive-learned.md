@@ -33,6 +33,14 @@ You just need to start, if that doesn’t work, at least you’d know what works
 
 ## **Doubting yourself?**
 
+The Truth is, at the start of your journey, you’ll feel lost, you won’t know what to do, you’ll feel like you’re not made for this field, and that’s completely normal. Anyone starting their journey, would feel like this, because no one is born perfect.
+
+People you see online, making videos, solving coding problems without any errors, I’m pretty sure they also encounter bugs and they fix them before making that perfect video, or maybe they also do multiple takes to make it perfect.
+
+**So stop comparing yourself with people who have years of experience in that field while you’re just starting.**
+
+
+
 
 
 
