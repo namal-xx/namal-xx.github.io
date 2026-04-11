@@ -39,6 +39,10 @@ People you see online, making videos, solving coding problems without any errors
 
 **So stop comparing yourself with people who have years of experience in that field while you’re just starting.**
 
+---
+
+## **Debugging is 80% of work, and nobody prepares you for that:**
+
 
 
 
