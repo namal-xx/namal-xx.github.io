@@ -66,6 +66,24 @@ I’d done classification before, but every dataset humbles you differently. An 
 
 ## **The Gemini Chapter. Claude, Don’t Read This.**
 
+It was the time to add a brain into my app and actually make it intelligent. It was the most fun and exciting part for me. I first selected OpenAI for making **AI-Powered follow-up recommendations**, but when it was time for testing, I found out I couldn’t use OpenAI API for free (I might be wrong, but that’s what I came up with).
+
+Then I decided to go with Gemini *(Sorry Claude for not choosing you, but I had no other option)*. I could use Gemini at no cost for my portfolio project, so it was a fair option.
+
+*Well, I couldn’t access the Gemini API key at first because I’m under 18, used my brother’s account!*
+
+I spent most of my time building an AI chatbot and getting recommendations from Gemini. I had to watch a lot of videos on how to create a chatbot.
+
+Three hours of YouTube later, something finally clicked. And when the chatbot gave its first actual response, I did the thing. You know the pose.
+
+
+
+
+
+
+
+
+
 
 
 
