@@ -81,6 +81,13 @@ At that moment, I felt like I was Max Verstappen of coding.
 
 ## **The Glow Up**
 
+This was the time to put everything on streamlit. So other people can also access my app.
+
+The workflow was to get data from the user and instantly show recommendations based on their lead categories and dashboard based on customers segments.
+
+The code was getting longer and longer. Putting them all together was difficult. I lost my mind many times, but I knew I’d complete it beautifully.
+
+
 
 
 
