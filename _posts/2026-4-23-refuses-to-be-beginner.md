@@ -61,6 +61,12 @@ By the time I got to lead scoring, I knew what I was doing. Mostly.
 
 I’d done classification before, but every dataset humbles you differently. An AUC of 0.66 , not perfect, not going to lie. But it was above the baseline and the curve was behaving itself. I’ll take it.
 
+*And as you can see below , properly labeled this time. Growth!*
+![image](https://github.com/namal-xx/namal-xx.github.io/blob/main/assets/images/medium-post-plots(2).webp)
+
+## **The Gemini Chapter. Claude, Don’t Read This.**
+
+
 
 
 
