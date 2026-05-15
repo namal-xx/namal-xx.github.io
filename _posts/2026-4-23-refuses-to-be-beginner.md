@@ -44,6 +44,8 @@ And that’s exactly what makes it fun.
 
 You’re solving an error at 2 am that’s been haunting you for 2 days? Damn man! We are in the same boat!!
 
+## **The Results Were Pretty, the Plots Were Prettier**
+
 
 
 
