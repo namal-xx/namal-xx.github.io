@@ -30,3 +30,10 @@ I started searching for it, and after understanding what it actually was, I was 
 
 With this happy feeling, and a smile on my face, I kept working on the project.
 
+## **The Wall wasn’t a Wall**
+
+After exploring the data, I moved on to the “Feature Engineering” part. I always used to think of feature engineering as the challenging thing, since we have to figure out on our own what features would be useful in our use case.
+
+
+
+
