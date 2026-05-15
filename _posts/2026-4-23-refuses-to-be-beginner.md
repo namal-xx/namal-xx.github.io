@@ -34,6 +34,9 @@ With this happy feeling, and a smile on my face, I kept working on the project.
 
 After exploring the data, I moved on to the “Feature Engineering” part. I always used to think of feature engineering as the challenging thing, since we have to figure out on our own what features would be useful in our use case.
 
+And that’s already the hard part. Add zero domain knowledge on top of that , and it gets even trickier. But not knowing something never stopped me. If I don’t know something, I find out.
+
+So, I again pulled out my trusty pen and notebook, figuring out what I could do with this dataset. After lots of research, and bombarding Claude with every possible question, I finally came up with some features and created them. And I realized, well, feature engineering is not a “monster”. It’s fun to create something after putting in effort.
 
 
 
