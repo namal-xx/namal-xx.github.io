@@ -77,6 +77,11 @@ I spent most of my time building an AI chatbot and getting recommendations from 
 Three hours of YouTube later, something finally clicked. And when the chatbot gave its first actual response, I did the thing. You know the pose.
 ![image](assets/images/medium-post-verstapen-pose.webp)
 
+At that moment, I felt like I was Max Verstappen of coding.
+
+## **The Glow Up**
+
+
 
 
 
