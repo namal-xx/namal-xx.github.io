@@ -129,6 +129,13 @@ The concept being new, and code being very long, the errors were inevitable, but
 
 ----
 
+## **We made it!**
+Three challenges. Probably more that I’ve already forgotten. But that’s the thing about building something from scratch, the problems don’t stop you, they just slow you down long enough to figure it out.
+
+I started this project knowing nothing about CRM, customers, or leads. I ended it with a deployed app, a Medium article, and a very tired notebook.
+
+
+
 
 
 
