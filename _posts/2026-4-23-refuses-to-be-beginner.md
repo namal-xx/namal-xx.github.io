@@ -24,3 +24,4 @@ So I decided to go with this project. I took up my pen and notebook and started 
 Anyway, I downloaded a dataset from Kaggle, set up a notebook, imported the libraries, and started exploring the data. That part felt great, structured, familiar, under control. But the moment the exploration was done, I looked at the screen and said: *what now?*
 
 ## **Overthinking the Simple**
+I kept staring at the screen for a few minutes, then decided to Google *“how to work on a customer segmentation project”*. One of the first results included something called “RFM”. It was technically intimidating at first. I felt that this would take me weeks to understand and implement it. That confident feeling I started with? It started quietly fading.
