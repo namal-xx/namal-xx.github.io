@@ -25,3 +25,8 @@ Anyway, I downloaded a dataset from Kaggle, set up a notebook, imported the libr
 
 ## **Overthinking the Simple**
 I kept staring at the screen for a few minutes, then decided to Google *“how to work on a customer segmentation project”*. One of the first results included something called “RFM”. It was technically intimidating at first. I felt that this would take me weeks to understand and implement it. That confident feeling I started with? It started quietly fading.
+
+I started searching for it, and after understanding what it actually was, I was like Booom, it’s so easy, I was stressing out for no reason.
+
+With this happy feeling, and a smile on my face, I kept working on the project.
+
