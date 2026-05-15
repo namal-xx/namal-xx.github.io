@@ -96,6 +96,15 @@ I hit the deploy button. Waited. Refreshed. And there it was, live and working. 
 
 I didn’t trust it though. Kept clicking around, testing every feature, half expecting something to fall apart. Nothing did. Opened it on my phone just to be sure. Still worked. I should’ve been happy. And I was. But getting here? That’s a different story.
 
+## **It Wasn’t All Verstappen Poses**
+
+There are so many things I struggled with while working on this app. Some of them are:
+
+1. **When in Doubt, Run the Code:**
+
+The very first thing was finding out the optimal number of clusters. It was my first unsupervised learning project so, I had no idea what would be good. Watched tutorials, asked questions but I couldn’t get anything. Then I applied my instructor’s advice, “If in doubt, run the code”. I did exactly this, made some plots, experimented, and selected the number I found optimal for my dataset.
+
+
 
 
 
