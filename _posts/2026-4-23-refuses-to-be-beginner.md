@@ -75,6 +75,7 @@ Then I decided to go with Gemini *(Sorry Claude for not choosing you, but I had 
 I spent most of my time building an AI chatbot and getting recommendations from Gemini. I had to watch a lot of videos on how to create a chatbot.
 
 Three hours of YouTube later, something finally clicked. And when the chatbot gave its first actual response, I did the thing. You know the pose.
+![image](assets/images/medium-post-verstapen-pose.webp)
 
 
 
