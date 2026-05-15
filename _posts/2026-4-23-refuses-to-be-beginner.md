@@ -49,6 +49,10 @@ You’re solving an error at 2 am that’s been haunting you for 2 days? Damn ma
 Same story for the modelling, ran the numbers, let the algorithms do their thing, and ended up with these plots.
 ![image](assets/images/medium-post-plots.webp)
 
+*Well, these graphs were made before the clusters knew who they were, classic identity crisis.*
+
+![image](assets/images/medium-post-detail-clusters(2).webp)
+
 
 
 
