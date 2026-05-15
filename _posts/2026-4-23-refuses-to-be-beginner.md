@@ -38,5 +38,12 @@ And that’s already the hard part. Add zero domain knowledge on top of that ,
 
 So, I again pulled out my trusty pen and notebook, figuring out what I could do with this dataset. After lots of research, and bombarding Claude with every possible question, I finally came up with some features and created them. And I realized, well, feature engineering is not a “monster”. It’s fun to create something after putting in effort.
 
+The reason I used to think of it as a really tricky thing is because in courses, our instructors have laid out a clean, well-structured path for us. Errors are already figured out for us, and everything is clean and understandable. But in the real world, working on projects is a lot messier than your course projects.
+
+And that’s exactly what makes it fun.
+
+You’re solving an error at 2 am that’s been haunting you for 2 days? Damn man! We are in the same boat!!
+
+
 
 
