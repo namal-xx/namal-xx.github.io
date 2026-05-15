@@ -53,6 +53,16 @@ Same story for the modelling, ran the numbers, let the algorithms do their thing
 
 ![image](assets/images/medium-post-detail-clusters(2).webp)
 
+*This is what the brainstorming looked like. Truly historic work. Took this one just for you.*
+
+**And Lead Scoring?** Well, the process was the same, but I wasn’t. And honestly, that was the whole point.
+
+By the time I got to lead scoring, I knew what I was doing. Mostly.
+
+I’d done classification before, but every dataset humbles you differently. An AUC of 0.66 , not perfect, not going to lie. But it was above the baseline and the curve was behaving itself. I’ll take it.
+
+
+
 
 
 
