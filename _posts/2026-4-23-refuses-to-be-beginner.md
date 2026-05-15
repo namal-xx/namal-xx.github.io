@@ -7,3 +7,4 @@ tags: ["AI", "learning"]
 
 # **What Happens When a Beginner Refuses to Stay a Beginner**
 A love story between me, my laptop, Claude, and a notebook that saw too much
+![image](assets/images/medium-refuses-to-stay-beginner.webp)
