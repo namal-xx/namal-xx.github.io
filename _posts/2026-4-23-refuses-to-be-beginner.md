@@ -109,6 +109,13 @@ And this is a piece of advice for all beginners out there. Don’t wait for some
 And this is a piece of advice for all beginners out there. Don’t wait for someone to tell you what you should do. Just experiment with different things on your own and pick the best one.
 
 
+2. **Not settling for basic:**
+
+The chatbot option that Streamlit offers was too basic. I didn’t like that. So I decided to customize it using HTML & CSS. Took help from Claude for the Gemini chatbot. That long HTML code was scary to look at. It took me some time to actually organize it and select the style I wanted.
+
+Streamlit chat interface:
+
+
 
 
 
