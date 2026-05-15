@@ -91,6 +91,12 @@ And that’s exactly what happened. After weeks of effort, my app had that glow 
 
 ![image](assets/images/medium-post-dashboard.webp)
 
+## **Oh Right, I Have to Deploy This Thing**
+I hit the deploy button. Waited. Refreshed. And there it was, live and working. No error pages. No broken layouts. Just the app, sitting on the internet, doing its thing.
+
+I didn’t trust it though. Kept clicking around, testing every feature, half expecting something to fall apart. Nothing did. Opened it on my phone just to be sure. Still worked. I should’ve been happy. And I was. But getting here? That’s a different story.
+
+
 
 
 
