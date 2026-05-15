@@ -119,6 +119,17 @@ Streamlit chat interface:
 Versus my customized chatbot interface:
 ![image](assets/images/medium-streamlit-interface-customized.webp)
 
+To get here, I had to work through really long, complicated, and messy lines of code.
+
+3. **When the App Forgot Who It Was:**
+
+The next biggest challenge for me was dealing with the Streamlit session state. The concept was new for me, and I wasn’t sure where exactly I needed to use it. After adding every new feature, I was fighting with my app, as it kept resetting every time I switched pages. It sucked. I almost lost my mind over it.
+
+The concept being new, and code being very long, the errors were inevitable, but having those errors taught me about session states more than any tutorial could.
+
+----
+
+
 
 
 
