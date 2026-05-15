@@ -134,6 +134,10 @@ Three challenges. Probably more that I’ve already forgotten. But that’s the 
 
 I started this project knowing nothing about CRM, customers, or leads. I ended it with a deployed app, a Medium article, and a very tired notebook.
 
+Was it perfect? No. Was it done? Yes. **And sometimes done beats perfect**.
+
+
+
 
 
 
