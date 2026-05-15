@@ -114,6 +114,11 @@ And this is a piece of advice for all beginners out there. Don’t wait for some
 The chatbot option that Streamlit offers was too basic. I didn’t like that. So I decided to customize it using HTML & CSS. Took help from Claude for the Gemini chatbot. That long HTML code was scary to look at. It took me some time to actually organize it and select the style I wanted.
 
 Streamlit chat interface:
+![image](assets/images/medium-streamlit-interface.webp)
+
+Versus my customized chatbot interface:
+![image](assets/images/medium-streamlit-interface-customized.webp)
+
 
 
 
