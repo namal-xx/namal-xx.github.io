@@ -87,6 +87,10 @@ The workflow was to get data from the user and instantly show recommendations ba
 
 The code was getting longer and longer. Putting them all together was difficult. I lost my mind many times, but I knew I’d complete it beautifully.
 
+And that’s exactly what happened. After weeks of effort, my app had that glow up. It looked good. It had pretty dashboards for segments.
+
+![image](assets/images/medium-post-dashboard.webp)
+
 
 
 
