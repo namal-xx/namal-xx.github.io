@@ -102,7 +102,14 @@ There are so many things I struggled with while working on this app. Some of the
 
 1. **When in Doubt, Run the Code:**
 
-The very first thing was finding out the optimal number of clusters. It was my first unsupervised learning project so, I had no idea what would be good. Watched tutorials, asked questions but I couldn’t get anything. Then I applied my instructor’s advice, “If in doubt, run the code”. I did exactly this, made some plots, experimented, and selected the number I found optimal for my dataset.
+The very first thing was **finding out the optimal number of clusters**. It was my first unsupervised learning project so, I had no idea what would be good. Watched tutorials, asked questions but I couldn’t get anything. Then I applied my instructor’s advice, **“If in doubt, run the code”**. I did exactly this, made some plots, experimented, and selected the number I found optimal for my dataset.
+
+And this is a piece of advice for all beginners out there. Don’t wait for someone to tell you what you should do. Just experiment with different things on your own and pick the best one.
+
+And this is a piece of advice for all beginners out there. Don’t wait for someone to tell you what you should do. Just experiment with different things on your own and pick the best one.
+
+
+
 
 
 
