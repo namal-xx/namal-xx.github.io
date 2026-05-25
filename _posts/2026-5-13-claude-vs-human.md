@@ -41,7 +41,7 @@ I’ve trained my Claude in a way that, when I ask it to solve any coding proble
 Instead of AI solving my problems, It helps me think and solve it myself. And trust me, sometimes I don’t even go to AI, because I know it’s not going to give me exact solution, so I solve that problem on my own.
 
 ## **The Real Skill Companies Want**
-
+I know you guys might be saying, Well Namal I know about all that, enough of this long talk and get to the point, should I really learn coding in 2026? Well, you absolutely should learn to code. But here’s the thing, you’re not gonna learn only how to code but you’ll stack different skills and make a unique one.
 
 
 
