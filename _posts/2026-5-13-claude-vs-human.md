@@ -33,6 +33,10 @@ You stop struggling with problems yourself. That struggle is where most learning
 
 Debugging confusing errors, searching documentation, trying different approaches, getting stuck for hours, those moments build problem-solving ability.
 
+If AI removes all friction from learning, it can also remove the thinking that makes you grow.
+
+
+
 
 
 
