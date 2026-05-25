@@ -20,6 +20,8 @@ Well, he was partially correct. And honestly, everyone in the era of Claude and 
 
 There are some key aspects that I follow while I’m coding.
 
+## **I don’t want Claude to build for me. I want it to think with me.**
+
 
 
 
