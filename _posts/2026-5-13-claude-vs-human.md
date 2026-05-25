@@ -56,6 +56,8 @@ If you’re learning to code, learn how to use AI efficiently enough that it mak
 
 And I’ll leave you with this:
 
+*While you’re scrolling, AI is learning.*
+
 
 
 
