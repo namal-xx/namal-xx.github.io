@@ -31,6 +31,9 @@ By using AI for everything, it becomes easy to rely on it for even the smallest 
 
 You stop struggling with problems yourself. That struggle is where most learning actually happens.
 
+Debugging confusing errors, searching documentation, trying different approaches, getting stuck for hours, those moments build problem-solving ability.
+
+
 
 
 
