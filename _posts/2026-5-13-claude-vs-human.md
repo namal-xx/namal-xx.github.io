@@ -40,6 +40,8 @@ I’ve trained my Claude in a way that, when I ask it to solve any coding proble
 
 Instead of AI solving my problems, It helps me think and solve it myself. And trust me, sometimes I don’t even go to AI, because I know it’s not going to give me exact solution, so I solve that problem on my own.
 
+## **The Real Skill Companies Want**
+
 
 
 
