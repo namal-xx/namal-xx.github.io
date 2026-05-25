@@ -16,6 +16,12 @@ A few days ago, I was working on my final project for CS50P (where I created a g
 
 I showed it to my brother. First he said yeah it looks good but then he said something that made me think for a bit. He said, *“I can create the same type of game by giving just one prompt to claude, and claude can make it in just a few minutes. Then why you’re coding the whole thing?”*
 
+Well, he was partially correct. And honestly, everyone in the era of Claude and vibe coding says this. But should we “really” depend on AI?
+
+There are some key aspects that I follow while I’m coding.
+
+
+
 
 
 
