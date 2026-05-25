@@ -54,6 +54,7 @@ In this process of making software applications, coding is just a part of it, an
 ## **So, are you learning, or is AI learning for you?**
 If you’re learning to code, learn how to use AI efficiently enough that it makes you the best programmer out there. Learn different skills, stack them all and make a unique one out of it, that nobody has.
 
+And I’ll leave you with this:
 
 
 
