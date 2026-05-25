@@ -29,6 +29,10 @@ But, let’s say, now I gave prompt to Claude to make something for me, and Clau
 ## **The difference between using AI and being used by AI**
 By using AI for everything, it becomes easy to rely on it for even the smallest problems. And slowly, something dangerous starts happening:
 
+You stop struggling with problems yourself. That struggle is where most learning actually happens.
+
+
+
 
 
 
