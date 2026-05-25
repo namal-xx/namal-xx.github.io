@@ -51,6 +51,8 @@ Ok namal, but what about the startup who made their website without a programmer
 
 In this process of making software applications, coding is just a part of it, and you can use AI to help you, make the process faster but you can’t fully rely on that.
 
+## **So, are you learning, or is AI learning for you?**
+
 
 
 
