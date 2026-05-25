@@ -23,6 +23,7 @@ There are some key aspects that I follow while I’m coding.
 ## **I don’t want Claude to build for me. I want it to think with me.**
 Programming for me is so fun. I enjoy writing code, figuring everything out, searching on Google. This is where actual learning happens.
 
+But, let’s say, now I gave prompt to Claude to make something for me, and Claude is doing everything, while I’m just sitting there scrolling through my phone. Claude finishes the work, project is completed. But what did I even learn? If someone asks me about my project, I wouldn’t know anything about it right, because I didn’t do anything. I just typed a prompt and watched reels while AI was creating.
 
 
 
