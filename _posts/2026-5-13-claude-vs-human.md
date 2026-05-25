@@ -47,7 +47,11 @@ So what do I mean by stacking skills? For example, when companies hire someone, 
 
 See, it’s not only about coding.
 
-Ok namal, but what about the startup who made their website without a programmer? Yes, startups can build websites with AI today. But as they grow, they’ll need someone who can architect systems, debug at scale, and think beyond a prompt.
+Ok namal, but what about the startup who made their website without a programmer? Yes, startups can build websites with AI today. But as they grow, they’ll need someone who can architect systems, debug at scale, and think beyond a prompt
+
+In this process of making software applications, coding is just a part of it, and you can use AI to help you, make the process faster but you can’t fully rely on that.
+
+
 
 
 
