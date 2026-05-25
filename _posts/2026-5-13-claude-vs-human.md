@@ -43,6 +43,8 @@ Instead of AI solving my problems, It helps me think and solve it myself. And tr
 ## **The Real Skill Companies Want**
 I know you guys might be saying, Well Namal I know about all that, enough of this long talk and get to the point, should I really learn coding in 2026? Well, you absolutely should learn to code. But here’s the thing, you’re not gonna learn only how to code but you’ll stack different skills and make a unique one.
 
+So what do I mean by stacking skills? For example, when companies hire someone, they don’t just see if you can code or not, they see your thinking process, your problem solving skills. The way you communicate, the way you take problems and solve them. Can you even take bigger problems or not. Would you be able to make their work easier or they’d need to tell about every single thing.
+
 
 
 
