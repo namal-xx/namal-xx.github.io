@@ -35,6 +35,11 @@ Debugging confusing errors, searching documentation, trying different approaches
 
 If AI removes all friction from learning, it can also remove the thinking that makes you grow.
 
+## **My Rule for Using AI**
+
+
+
+
 
 
 
