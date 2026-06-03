@@ -31,7 +31,7 @@ AI has a great impact on automotive industry as well including:
 3. **Voice Activated Systems**, which allows you to control functions in the car (e.g setting destinations, placing calls, and streaming music) with spoken commands, mainly using NLP techniques.
 4. … and many more
 
-### That's why my big goals are :
+### That's why my big goals are:
 1. **Combine AI with my love for automobiles.** I know, I'm not an expert in any of these fields yet, but I can excel at the crossover of these two.
 2. **Share what I learn**, through articles, blogs, and explanations, to help others (especially students like me) to understand AI without feeling overwhelmed.
 3. **Become a true AI expert.** I'm not learning AI just for fun, I'm going all in, pushing myself every day to hit these goals and turn passion into real impact.
