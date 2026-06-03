@@ -29,7 +29,7 @@ AI has a great impact on automotive industry as well including:
 1. **Self driving cars**, which uses AI to navigate roads, avoid obstacles and make decisions in real time using sensors and deep learning.
 2. **ADAS features**. Features like Automatic braking, Lane Keep Assist, Driver Monitoring System etc.
 3. **Voice Activated Systems**, which allows you to control functions in the car (e.g setting destinations, placing calls, and streaming music) with spoken commands, mainly using NLP techniques.
-4. … and many more
+4. ... and many more
 
 ### That's why my big goals are:
 1. **Combine AI with my love for automobiles.** I know, I'm not an expert in any of these fields yet, but I can excel at the crossover of these two.
