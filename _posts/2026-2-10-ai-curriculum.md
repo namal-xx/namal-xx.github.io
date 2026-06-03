@@ -84,7 +84,6 @@ Harvard's free online courses are helping me so much in the moment. Learning fro
 
 ### Why learn Math?
 AI is all about math(s). Fortunately, most of the math has been taken care of behind the scenes by libraries, which has made programming much easier. Still, having a fair amount of mathematical knowledge will help with debugging and understanding the concepts that make AI possible.
-
 ---
 
 ### Books:
