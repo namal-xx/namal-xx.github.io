@@ -59,7 +59,7 @@ The very first project you’ll create after taking any course, will not be very
 
 It is better to create something even when you don’t feel ready, rather than waiting to be a perfect programmer. Because, you’ll never feel fully ready to do something. Success comes with time, and taking small steps. Perfection is not a magic that’ll come automatically, you’ll have to work for it.
 
-So feel happy and proud after finishing your first project, because that’s the actual milestone!!
+So feel happy and proud after finishing your first project, because that’s the actual milestone!
 
 ---
 
