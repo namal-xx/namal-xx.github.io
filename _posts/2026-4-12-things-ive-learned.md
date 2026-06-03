@@ -97,7 +97,7 @@ The one thing I’d want you to take from this article is that, don’t wait for
 
 I hope this helps. Now close this article, open your editor, and go build something.
 
-*Happy coding and happy failing, because that’s where the real growth is!!*
+*Happy coding and happy failing, because that’s where the real growth is!*
 
 
 
