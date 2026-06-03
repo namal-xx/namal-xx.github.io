@@ -35,7 +35,8 @@ Debugging confusing errors, searching documentation, trying different approaches
 
 If AI removes all friction from learning, it can also remove the thinking that makes you grow.
 
-## **My Rule for Using AI**
+## **My Rule for Using AI:**
+
 I’ve trained my Claude in a way that, when I ask it to solve any coding problem, instead of giving me the exact solution, it turns the question back on me, asking how I think this problem can be solved, or how this can affect the output. It asks me to “search” that specific concept, and tell Claude what I think about it. And honestly I do that, and tell it about my understanding. Then it corrects me if I’m wrong.
 
 Instead of AI solving my problems, It helps me think and solve it myself. And trust me, sometimes I don’t even go to AI, because I know it’s not going to give me exact solution, so I solve that problem on my own.
