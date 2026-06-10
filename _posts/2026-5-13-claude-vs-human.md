@@ -8,7 +8,7 @@ tags: ["AI", "learning"]
 # **While You Scroll, AI Is Learning**
 The Problem With Letting Claude Build Everything
 
-![image]...
+![image]
 
 ## **Why code when Claude exists?**
 
