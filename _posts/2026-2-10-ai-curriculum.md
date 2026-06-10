@@ -19,7 +19,6 @@ I'm namal *(17). A high school student in 11th grade.* Passionate about learning
 I'm a total car nut! (the kind who walks around the parking lot just to admire rides). And yeah, I love "Learning" too, learning about things that are interesting and help me grow both technically and personally.
 
 The best thing I've learned so far is that if you do what you love, you'll be more successful than people who are just forcing themselves to do work they don't even like. Because if you work on things you personally like, you won't hate Mondays, it'll be more fun to work!
-
 ---
 
 ## **Why I'm studying Artificial Intelligence?**
